@@ -3,7 +3,9 @@
 Встану и схожу скорей за бутером
 А то задремлю скоро.
 абоба
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaapppapapapskdfxgzhxhckvmb,cpd--506948274
 
+a=int(input())
 
 
 
