@@ -1,4 +1,4 @@
-print("ведите 2 сторыны примогольника")
+print("ведите 2 сторыны промогольника")
 a=int(input())
 b=int(input())
 print("perimetr:")
